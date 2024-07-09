@@ -1,5 +1,5 @@
 # Timaxacker
-### _I'm a hacker and this is my World!_ 
+### _Smile, fool)_ 
 > [My Telegram](https://t.me/Timahacker)
 -----------
 # Who the best?
