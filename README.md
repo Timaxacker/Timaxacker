@@ -1,17 +1,13 @@
 # Timaxacker
-### _Smile, fool)_ 
+### _Career at Carrera)_ 
+
+-----------
+
+# How to find me?
 > [My Telegram](https://t.me/Timahacker)
+
 -----------
-# Who the best?
-###### I'm the best!
------------
-# What about my qualities:
-- Smart
-- Strong
-- Beautiful
-- High
-- Sexy
-- Self-confident
-- Rich
-- Young
-> And most importantly - humble)
+
+# What about me?
+> Surprisingly, I am a programmer
+> For programming I use Python and a bit of C++
