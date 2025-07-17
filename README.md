@@ -9,5 +9,5 @@
 -----------
 
 # What about me?
-> Surprisingly, I am a programmer
+> Surprisingly, I am a programmer  
 > For programming I use Python and a bit of C++
